@@ -1,0 +1,50 @@
+Start Date:  Jan 31, 2001 04:31:26  
+ Next sec:   Jan 31, 2001 04:31:27  
+ Next sec:   Jan 31, 2001 04:31:28  
+ Next sec:   Jan 31, 2001 04:31:29 
+
+Start Date:  Apr 22, 2004 23:59:58  
+ Next sec:   Apr 22, 2004 23:59:59  
+ Next sec:   Apr 23, 2004 00:00:00  
+ Next sec:   Apr 23, 2004 00:00:01 
+
+Start Date:  Jan 31, 2001 23:59:58  
+ Next sec:   Jan 31, 2001 23:59:59  
+ Next sec:   Feb 1, 2001 00:00:00  
+ Next sec:   Feb 1, 2001 00:00:01 
+
+Start Date:  Apr 30, 2004 23:59:58  
+ Next sec:   Apr 30, 2004 23:59:59  
+ Next sec:   May 1, 2004 00:00:00  
+ Next sec:   May 1, 2004 00:00:01 
+
+Start Date:  Feb 28, 2004 23:59:58  
+ Next sec:   Feb 28, 2004 23:59:59  
+ Next sec:   Feb 29, 2004 00:00:00  
+ Next sec:   Feb 29, 2004 00:00:01 
+
+Start Date:  Feb 28, 1900 23:59:58  
+ Next sec:   Feb 28, 1900 23:59:59  
+ Next sec:   Mar 1, 1900 00:00:00  
+ Next sec:   Mar 1, 1900 00:00:01 
+
+Start Date:  Feb 28, 2000 23:59:58  
+ Next sec:   Feb 28, 2000 23:59:59  
+ Next sec:   Feb 29, 2000 00:00:00  
+ Next sec:   Feb 29, 2000 00:00:01 
+
+Start Date:  Feb 28, 2001 23:59:58  
+ Next sec:   Feb 28, 2001 23:59:59  
+ Next sec:   Mar 1, 2001 00:00:00  
+ Next sec:   Mar 1, 2001 00:00:01 
+
+Start Date:  Dec 31, 2004 23:59:58  
+ Next sec:   Dec 31, 2004 23:59:59  
+ Next sec:   Jan 1, 2005 00:00:00  
+ Next sec:   Jan 1, 2005 00:00:01 
+
+Start Date:  Dec 31, 1999 23:59:58  
+ Next sec:   Dec 31, 1999 23:59:59  
+ Next sec:   Jan 1, 2000 00:00:00  
+ Next sec:   Jan 1, 2000 00:00:01 
+
