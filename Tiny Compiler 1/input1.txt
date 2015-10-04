@@ -1,0 +1,16 @@
+f = 3*7;
+g = f + (9 + 4);
+h = f + g;
+< h; < N;
+a = f*f + g*g;
+b = g*h + f*g;
+c = g*g + h*h;
+< c; < N;
+f = a*a + b*b;
+g = b*c + a*b;
+h = c*c + b*b;
+< h; < N;
+a = f*f + g*g;
+b = g*h + f*g;
+c = g*g + h*h;
+< c; < N;  $
