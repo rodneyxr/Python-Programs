@@ -1,0 +1,20 @@
+# pi2.t: pi as product
+> n;
+p = 2;  # final product
+b = 0; # each denom
+i = 1; # loop count
+{ n - i ?
+   # sqrt(2 + b), Newt #
+     k = 1;            #
+     x = 2 + b;        #
+     y = x;            #
+     { k - 2*5 ?       #
+       y = x/(2*y)+y/2;#
+       k = k + 1; }    #
+     b = y;            #
+   # sqrt done #########
+   t = 2/b; # term
+   p = p*t;
+   i = i + 1;
+   < i; < B; < p; < N;
+} $
